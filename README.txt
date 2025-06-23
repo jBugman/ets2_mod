@@ -4,4 +4,4 @@ This mode tunes some parameters the way I like (mostly making some aspects of th
 * Reduces non-repairable damage taken from collisions.
 * Makes normal damage slowly heal with distance.
 * Lowers sleep time to 4 hours.
-* Removes AI driver's chance to fail to get a job.
+* Removes (looks like not completely) AI driver's chance to fail to get a job.

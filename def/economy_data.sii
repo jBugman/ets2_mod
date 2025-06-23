@@ -1,6 +1,5 @@
 ﻿SiiNunit
 {
-# spellchecker:ignore reas,excelent
 economy_data : economy.data.storage
 {
 	truck_refund: 		0.6	# 60% of original price
@@ -56,7 +55,7 @@ economy_data : economy.data.storage
 	tow_price_factor: 0.4	# cost per meter (as crow flies)
 	tow_time_base: 1800	# 30 min
 	tow_time_factor: 3	# time per meter (as crow flies)
-	tow_fuel_ratio: 0.0	# emergency refuel upon tow (tank %)
+	tow_fuel_ratio: 0.0	# emergecy refuel upon tow (tank %)
 
 	# emergency refuel
 
@@ -87,7 +86,7 @@ economy_data : economy.data.storage
 
 	driver_quitwarn_time: 3		# days
 	driver_quit_time: 5		# days
-	driver_no_return_job_prob: 0.0	# 10% of no return job, decrease with skill
+	driver_no_return_job_prob: 0.0
 
 	driver_skilled_job_prob: 0.8
 

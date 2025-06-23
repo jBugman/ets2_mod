@@ -40,11 +40,11 @@ vehicle_damage_data : .damage_data
 
 	# truck wear per km of drive
 
-	cabin_wear:		-0.0001
-	chassis_wear:		-0.0001
-	engine_wear:		-0.0001
-	transmission_wear:	-0.0001
-	wheel_wear:		-0.0001
+	cabin_wear:		-0.0002
+	chassis_wear:		-0.0002
+	engine_wear:		-0.0002
+	transmission_wear:	-0.0002
+	wheel_wear:		-0.0002
 
 	cabin_wear_unfixable:		0.0
 	chassis_wear_unfixable:		0.0
@@ -54,9 +54,9 @@ vehicle_damage_data : .damage_data
 
 	# trailer wear per km of drive
 
-	trailer_body_wear:	-0.0001
-	trailer_chassis_wear:	-0.0001
-	trailer_wheel_wear:	-0.0001
+	trailer_body_wear:	-0.0002
+	trailer_chassis_wear:	-0.0002
+	trailer_wheel_wear:	-0.0002
 
 	trailer_body_wear_unfixable:		0.0
 	trailer_chassis_wear_unfixable:		0.0
